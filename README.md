@@ -13,25 +13,31 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<h3 align="left">Hello! i'm Ridho Anjar Maulana</h3>
+![Header](img/header.png)
 
 ###
 
-<p align="left">Socials :</p>
+## About Me
+<p>
+I am a developer who loves building interactive UI on the frontend and designing efficient APIs on the backend. Full-stack is my playground!</p>
+
+###
+
+## Socials 
 
 ###
 
 <div align="center">
-  <a href="https://www.instagram.com/ridhoanjar_18">
+  <a href="https://www.instagram.com/ridhoanjar_18" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="70" height="40" alt="instagram logo" />
   </a>
-  <a href="mailto:anjarridho081@gmail.com">
+  <a href="mailto:anjarridho081@gmail.com" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="70" height="40" alt="gmail logo" />
   </a>
-  <a href="https://www.linkedin.com/in/ridho-anjar-maulana">
+  <a href="https://www.linkedin.com/in/ridho-anjar-maulana" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="70" height="40" alt="linkedin logo" />
   </a>
-  <a href="https://x.com/RidhoAnjar_18">
+  <a href="https://x.com/RidhoAnjar_18" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/twitter/default.svg" width="70" height="40" alt="twitter logo" />
   </a>
   <a href="#">
@@ -41,7 +47,7 @@ Here are some ideas to get you started:
 
 ###
 
-<p align="left">Tech Stack :</p>
+## Tech Stack  
 
 ###
 
@@ -68,6 +74,14 @@ Here are some ideas to get you started:
   <img width="20" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" alt="typescript logo"  />
 </div>
+
+
+###
+
+## Fun Fact
+
+<p>I like coding at night until I forget the time, especially when accompanied by coffee and chocolate. ☕🍫</p>
+
 
 ###
 
