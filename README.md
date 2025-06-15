@@ -81,13 +81,6 @@ I am a developer who loves building interactive UI on the frontend and designing
 
 ###
 
-## Fun Fact
-
-<p>I like coding at night until I forget the time, especially when accompanied by coffee and chocolate. ☕🍫</p>
-
-
-###
-
 <img src="https://raw.githubusercontent.com/RidhoAnjarM/RidhoAnjarM/output/snake.svg" alt="Snake animation" />
 
 ###
