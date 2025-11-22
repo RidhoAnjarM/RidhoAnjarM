@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 
 ###
 
-<div align="center">
+<div align="left">
   <a href="mailto:anjarridho081@gmail.com" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="70" height="40" alt="gmail logo" />
   </a>
